@@ -1,2 +1,1 @@
-# Sport-Sales-and-Customer-Analysis-Dashboard-using-Tableau
-Sport Sales and Customer Analysis Dashboard using Tableau
+In a world where data is an invaluable asset, this project seeks to empower businesses to leverage their data to its full potential and secure a competitive edge in the sports industry. The main goal of this project is to provide businesses within the sports industry with the actionable insights required to tailor their strategies for different locations, ultimately resulting in enhanced overall performance.
