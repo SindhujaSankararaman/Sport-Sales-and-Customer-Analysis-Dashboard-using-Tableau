@@ -1,4 +1,6 @@
-The main goal of this project is to provide businesses within the sports industry with the actionable insights required to tailor their strategies for different locations, ultimately resulting in enhanced overall performance.
+In this project , I leveraged SQL for data querying, Excel data cleaning, and Tableau for advanced data visualization. The goal is to empower organizations within the sports industry to uncover actionable insights, identify trends, and make informed decisions. 
+The project aims to enhance the overall data utilization process, ensuring that businesses can derive maximum value from their data assets and maintain a competitive edge in a dynamic market.
+
 
 I have deep delved into the data to answer the following business questions:
 1.	Which states or regions generate the highest and lowest profits?
@@ -13,8 +15,11 @@ Key Insights from the Analysis:
 
 
 California emerged as the highest profit-generating state with $34,554, while Maine had the lowest profit at $17.
+
 Hockey stands out with the highest profit margin of 58%, suggesting it may be a particularly lucrative product category.
+
 A total of 1,193 customers provided ratings or reviews, indicating customer engagement.
+
 June was the highest revenue-generating month, with $56,407 in revenue and $42,802 in profit.
 
 
