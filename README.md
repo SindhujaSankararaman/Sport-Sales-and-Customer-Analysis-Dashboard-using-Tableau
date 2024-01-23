@@ -1,3 +1,4 @@
+# Project Overview: 
 The primary objective of this project is to provide businesses within the sports industry with the actionable insights, enabling them to customize their strategies for diverse locations.In this project , I leveraged SQL for data querying, Excel for data cleaning, and Tableau for advanced data visualization.The ultimate aim is to elevate overall performance and sustain a competitive edge in a dynamic market environment.
 
 
@@ -10,7 +11,7 @@ I have deep delved into the data to answer the following business questions:
 6.	Are there any correlations between profit and revenue based on ratings?
 
    
-Key Insights from the Analysis:
+## Key Insights from the Analysis:
 
 
 California emerged as the highest profit-generating state with $34,554, while Maine had the lowest profit at $17.
