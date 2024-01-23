@@ -16,9 +16,9 @@ I have deep delved into the data to answer the following business questions:
 
 1. California emerged as the highest profit-generating state with $34,554, while Maine had the lowest profit at $17.
 
-2. Hockey stands out with the highest profit margin of 58%, suggesting it may be a particularly lucrative product category.
+2. Hockey has generated a  highest profit margin of 58%.
 
-3. A total of 1,193 customers provided ratings or reviews, indicating customer engagement.
+3. A total of 1,193 customers provided ratings or reviews. 41.9% of customers left reviews, showing a significant portion of engaged customers.
 
 4. June was the highest revenue-generating month, with $56,407 in revenue and $42,802 in profit.
 
