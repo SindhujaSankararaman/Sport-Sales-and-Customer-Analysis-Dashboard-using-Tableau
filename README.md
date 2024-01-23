@@ -1,4 +1,4 @@
-In this project , I leveraged SQL for data querying, Excel for data cleaning, and Tableau for advanced data visualization.The primary objective of this project is to provide businesses within the sports industry with the actionable insights, enabling them to customize their strategies for diverse locations.The ultimate aim is to elevate overall performance and sustain a competitive edge in a dynamic market environment.
+The primary objective of this project is to provide businesses within the sports industry with the actionable insights, enabling them to customize their strategies for diverse locations.In this project , I leveraged SQL for data querying, Excel for data cleaning, and Tableau for advanced data visualization.The ultimate aim is to elevate overall performance and sustain a competitive edge in a dynamic market environment.
 
 
 I have deep delved into the data to answer the following business questions:
