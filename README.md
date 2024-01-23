@@ -14,7 +14,7 @@ I have deep delved into the data to answer the following business questions:
 ## Key Insights from the Analysis:
 
 
-California emerged as the highest profit-generating state with $34,554, while Maine had the lowest profit at $17.
+1. California emerged as the highest profit-generating state with $34,554, while Maine had the lowest profit at $17.
 
 Hockey stands out with the highest profit margin of 58%, suggesting it may be a particularly lucrative product category.
 
